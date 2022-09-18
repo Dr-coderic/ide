@@ -1,0 +1,43 @@
+* {margin: 0;}
+
+.header{
+    background: #263C5C;
+    text-align: Right;
+    font-size: 60pt;
+    font-weight: 1000;
+    color: #BDCCE1;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.control-panel{
+    background: #4B525C;
+    text-align: center;
+    font-size: 20pt;
+    padding: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.languages {
+    background: whitesmoke;
+    border: 3px solid grey;
+    text-align: center;
+}
+.editor {height: 420px; }
+
+.button-container {
+    text-align: right; 
+    padding: 5px;
+}
+.btn {
+    background: #263C5C;
+    color: #BDCCE1;
+    padding: 6px;
+    border: 0;
+    font-size: 18pt;
+}
+.output {
+    padding: 4px;
+    border: 2px solid grey;
+    min-height: 300px;
+    width: 98%;
+    resize: none;
+}
